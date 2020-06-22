@@ -11,6 +11,8 @@ directly integrate into Home Assistant through the native API.
 .. code-block:: yaml
 
     # Example configuration entry
+    api:
+    
     esp32_camera:
       name: My Camera
       external_clock:
