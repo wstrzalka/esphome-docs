@@ -155,6 +155,7 @@ Sensor Components
     TCS34725, components/sensor/tcs34725, tcs34725.jpg
     Template Sensor, components/sensor/template, description.svg
     TMP117, components/sensor/tmp117, tmp117.jpg
+    TOF10120, components/sensor/tof10120, tof10120.jpg
     Total Daily Energy, components/sensor/total_daily_energy, sigma.svg
     TSL2561, components/sensor/tsl2561, tsl2561.jpg
     Tuya Sensor, components/sensor/tuya, tuya.png
